@@ -1,0 +1,27 @@
+<head>
+    <title>Galeria de Filmes Favoritos</title>
+</head>
+<body>
+    <h1>Galeria de Filmes Favoritos</h1>
+    <div class="gallery">
+        <a href="https://pt.wikipedia.org/wiki/The_Fast_and_the_Furious" target="_blank">
+            <img src="/imagens/velozes1.jpg"alt="Velozes e Furiosos 1">
+        </a>
+        <a href="https://pt.wikipedia.org/wiki/2_Fast_2_Furious" target="_blank">
+            <img src="img/velozes2.jpg" alt="Velozes e Furiosos 2">
+        </a>
+        <a href="https://pt.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift" target="_blank">
+            <img src="img/velozes3.jpg" alt="Velozes e Furiosos 3">
+        </a>
+        <a href="https://pt.wikipedia.org/wiki/Carros_(filme)" target="_blank">
+            <img src="img/carros1.jpg" alt="Carros 1">
+        </a>
+        <a href="https://pt.wikipedia.org/wiki/Scary_Movie" target="_blank">
+            <img src="img/panico1.jpg" alt="Todo Mundo em Pânico 1">
+        </a>
+        <a href="https://pt.wikipedia.org/wiki/Scary_Movie_2" target="_blank">
+            <img src="img/panico2.jpg" alt="Todo Mundo em Pânico 2">
+        </a>
+    </div>
+</body>
+</html>
